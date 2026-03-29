@@ -1,0 +1,5 @@
+{
+  "name": "RetailPro Billing",
+  "description": "A professional retail store billing system with GST invoice generation and PDF download.",
+  "requestFramePermissions": []
+}
